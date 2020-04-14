@@ -1,0 +1,14 @@
+**/node_modules
+**/build
+**/.vscode
+**/*.orig
+**/logs
+# Gauge - metadata dir
+**/.gauge
+
+# Gauge - log files dir
+**/logs
+
+# Gauge - reports dir
+**/reports
+

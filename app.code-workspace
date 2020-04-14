@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "./server"
+		},
+		{
+			"path": "./client"
+		},
+		{
+			"path": "./integration-tests"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.spec": "gauge",
+			"*.cpt": "gauge"
+		}
+	},
+	"launch": {
+		"configurations": [],
+		"compounds": []
+	}
+}
